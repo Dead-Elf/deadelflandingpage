@@ -1,0 +1,3 @@
+[submodule "site/themes/ghazal"]
+	path = site/themes/ghazal
+	url = https://github.com/darshanbaral/ghazal.git
